@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+html5lib
+numpy==1.12
+matplotlib
+selenium
+jieba
+wordcloud
+Pillow
